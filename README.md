@@ -1,0 +1,2 @@
+# ojo
+git init
